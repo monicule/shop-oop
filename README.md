@@ -31,9 +31,9 @@ Design: --
 
 -   [x] demo completed task
 -   [ ] layout render
-    -   [ ] header
+    -   [x] header
     -   [ ] main content
-    -   [ ] footer
+    -   [x] footer
 -   [ ] navigation between pages
 
 ## 🧰 Getting Started
