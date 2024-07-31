@@ -36,9 +36,9 @@ Design: --
     -   [x] footer
 -   [x] navigation between
 -   [ ] product CRUD:
-    -   [ ] list
-    -   [ ] add
-    -   [ ] remove
+    -   [x] list
+    -   [x] add
+    -   [x] remove
     -   [ ] update
 
 ## 🧰 Getting Started
