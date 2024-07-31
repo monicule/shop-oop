@@ -1,3 +1,4 @@
+
 import { PageContact } from "./PageContact.js";
 import { PageHome } from "./PageHome.js";
 import { PageServices } from "./PageServices.js";
@@ -52,7 +53,7 @@ export class Layout {
         this.render();
         this.headerEvents();
 
-        new this.pagesData[2].content(this.mainDOM);
+        new this.pagesData[1].content(this.mainDOM);
     }
 
     header() {
